@@ -3,3 +3,6 @@
 ################################################################################
 
 /UserConfig.h
+/Debug
+/__vm/Configuration.Debug.vmps.xml
+/__vm/Compile.vmps.xml
